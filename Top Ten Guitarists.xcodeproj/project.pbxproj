@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		9DC420BA2E70B52F00F5031E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9DC420A42E70B52E00F5031E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9DC420AB2E70B52E00F5031E;
+			remoteInfo = "Top Ten Guitarists";
+		};
+		9DC420C42E70B52F00F5031E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9DC420A42E70B52E00F5031E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9DC420AB2E70B52E00F5031E;
+			remoteInfo = "Top Ten Guitarists";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9DC420AC2E70B52E00F5031E /* Top Ten Guitarists.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Top Ten Guitarists.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DC420B92E70B52F00F5031E /* Top Ten GuitaristsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Top Ten GuitaristsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DC420C32E70B52F00F5031E /* Top Ten GuitaristsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Top Ten GuitaristsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		9DC420AE2E70B52E00F5031E /* Top Ten Guitarists */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Top Ten Guitarists";
+			sourceTree = "<group>";
+		};
+		9DC420BC2E70B52F00F5031E /* Top Ten GuitaristsTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Top Ten GuitaristsTests";
+			sourceTree = "<group>";
+		};
+		9DC420C62E70B52F00F5031E /* Top Ten GuitaristsUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Top Ten GuitaristsUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9DC420A92E70B52E00F5031E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DC420B62E70B52F00F5031E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DC420C02E70B52F00F5031E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9DC420A32E70B52E00F5031E = {
+			isa = PBXGroup;
+			children = (
+				9DC420AE2E70B52E00F5031E /* Top Ten Guitarists */,
+				9DC420BC2E70B52F00F5031E /* Top Ten GuitaristsTests */,
+				9DC420C62E70B52F00F5031E /* Top Ten GuitaristsUITests */,
+				9DC420AD2E70B52E00F5031E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9DC420AD2E70B52E00F5031E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9DC420AC2E70B52E00F5031E /* Top Ten Guitarists.app */,
+				9DC420B92E70B52F00F5031E /* Top Ten GuitaristsTests.xctest */,
+				9DC420C32E70B52F00F5031E /* Top Ten GuitaristsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9DC420AB2E70B52E00F5031E /* Top Ten Guitarists */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DC420CD2E70B52F00F5031E /* Build configuration list for PBXNativeTarget "Top Ten Guitarists" */;
+			buildPhases = (
+				9DC420A82E70B52E00F5031E /* Sources */,
+				9DC420A92E70B52E00F5031E /* Frameworks */,
+				9DC420AA2E70B52E00F5031E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				9DC420AE2E70B52E00F5031E /* Top Ten Guitarists */,
+			);
+			name = "Top Ten Guitarists";
+			packageProductDependencies = (
+			);
+			productName = "Top Ten Guitarists";
+			productReference = 9DC420AC2E70B52E00F5031E /* Top Ten Guitarists.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9DC420B82E70B52F00F5031E /* Top Ten GuitaristsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DC420D02E70B52F00F5031E /* Build configuration list for PBXNativeTarget "Top Ten GuitaristsTests" */;
+			buildPhases = (
+				9DC420B52E70B52F00F5031E /* Sources */,
+				9DC420B62E70B52F00F5031E /* Frameworks */,
+				9DC420B72E70B52F00F5031E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9DC420BB2E70B52F00F5031E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9DC420BC2E70B52F00F5031E /* Top Ten GuitaristsTests */,
+			);
+			name = "Top Ten GuitaristsTests";
+			packageProductDependencies = (
+			);
+			productName = "Top Ten GuitaristsTests";
+			productReference = 9DC420B92E70B52F00F5031E /* Top Ten GuitaristsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9DC420C22E70B52F00F5031E /* Top Ten GuitaristsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DC420D32E70B52F00F5031E /* Build configuration list for PBXNativeTarget "Top Ten GuitaristsUITests" */;
+			buildPhases = (
+				9DC420BF2E70B52F00F5031E /* Sources */,
+				9DC420C02E70B52F00F5031E /* Frameworks */,
+				9DC420C12E70B52F00F5031E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9DC420C52E70B52F00F5031E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9DC420C62E70B52F00F5031E /* Top Ten GuitaristsUITests */,
+			);
+			name = "Top Ten GuitaristsUITests";
+			packageProductDependencies = (
+			);
+			productName = "Top Ten GuitaristsUITests";
+			productReference = 9DC420C32E70B52F00F5031E /* Top Ten GuitaristsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9DC420A42E70B52E00F5031E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					9DC420AB2E70B52E00F5031E = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					9DC420B82E70B52F00F5031E = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 9DC420AB2E70B52E00F5031E;
+					};
+					9DC420C22E70B52F00F5031E = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 9DC420AB2E70B52E00F5031E;
+					};
+				};
+			};
+			buildConfigurationList = 9DC420A72E70B52E00F5031E /* Build configuration list for PBXProject "Top Ten Guitarists" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9DC420A32E70B52E00F5031E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 9DC420AD2E70B52E00F5031E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9DC420AB2E70B52E00F5031E /* Top Ten Guitarists */,
+				9DC420B82E70B52F00F5031E /* Top Ten GuitaristsTests */,
+				9DC420C22E70B52F00F5031E /* Top Ten GuitaristsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9DC420AA2E70B52E00F5031E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DC420B72E70B52F00F5031E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DC420C12E70B52F00F5031E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9DC420A82E70B52E00F5031E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DC420B52E70B52F00F5031E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DC420BF2E70B52F00F5031E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9DC420BB2E70B52F00F5031E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9DC420AB2E70B52E00F5031E /* Top Ten Guitarists */;
+			targetProxy = 9DC420BA2E70B52F00F5031E /* PBXContainerItemProxy */;
+		};
+		9DC420C52E70B52F00F5031E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9DC420AB2E70B52E00F5031E /* Top Ten Guitarists */;
+			targetProxy = 9DC420C42E70B52F00F5031E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9DC420CB2E70B52F00F5031E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9DC420CC2E70B52F00F5031E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9DC420CE2E70B52F00F5031E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Top-Ten-Guitarists";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9DC420CF2E70B52F00F5031E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Top-Ten-Guitarists";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9DC420D12E70B52F00F5031E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Top-Ten-GuitaristsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Top Ten Guitarists.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Top Ten Guitarists";
+			};
+			name = Debug;
+		};
+		9DC420D22E70B52F00F5031E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Top-Ten-GuitaristsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Top Ten Guitarists.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Top Ten Guitarists";
+			};
+			name = Release;
+		};
+		9DC420D42E70B52F00F5031E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Top-Ten-GuitaristsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Top Ten Guitarists";
+			};
+			name = Debug;
+		};
+		9DC420D52E70B52F00F5031E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q48796JV8T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Top-Ten-GuitaristsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Top Ten Guitarists";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9DC420A72E70B52E00F5031E /* Build configuration list for PBXProject "Top Ten Guitarists" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DC420CB2E70B52F00F5031E /* Debug */,
+				9DC420CC2E70B52F00F5031E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DC420CD2E70B52F00F5031E /* Build configuration list for PBXNativeTarget "Top Ten Guitarists" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DC420CE2E70B52F00F5031E /* Debug */,
+				9DC420CF2E70B52F00F5031E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DC420D02E70B52F00F5031E /* Build configuration list for PBXNativeTarget "Top Ten GuitaristsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DC420D12E70B52F00F5031E /* Debug */,
+				9DC420D22E70B52F00F5031E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DC420D32E70B52F00F5031E /* Build configuration list for PBXNativeTarget "Top Ten GuitaristsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DC420D42E70B52F00F5031E /* Debug */,
+				9DC420D52E70B52F00F5031E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9DC420A42E70B52E00F5031E /* Project object */;
+}
